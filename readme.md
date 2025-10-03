@@ -15,27 +15,35 @@
 
 ## 🚀 Tecnologias
 
-<div align="center">
+<table align="center">
+  <tr>
+    <th>Back-end</th>
+    <th>Front-end</th>
+    <th>Banco de Dados</th>
+  </tr>
+  <tr>
+    <!-- Back-end -->
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js" width="60"/><br>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" alt="Express" width="60"/><br>
+      <img src="https://raw.githubusercontent.com/prisma/prisma/main/icons/favicon-32x32.png" alt="Prisma" width="60"/>
+    </td>
 
-**Back-end** | **Front-end** | **Banco de Dados**  
-:---: | :---: | :---:  
+    <!-- Front-end -->
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="60"/><br>
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-plain.svg" alt="Tailwind" width="60"/><br>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="60"/>
+    </td>
 
-<!-- Back-end -->
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js" width="60" style="margin-bottom: 8px"/> <br>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" alt="Express" width="60" style="margin-bottom: 8px"/> <br>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prisma/prisma-plain.svg" alt="Prisma" width="60" style="margin-bottom: 8px"/> |
-
-<!-- Front-end -->
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="60" style="margin-bottom: 8px"/> <br>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" alt="Tailwind" width="60" style="margin-bottom: 8px"/> <br>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS" width="60" style="margin-bottom: 8px"/> |
-
-<!-- Banco de Dados -->
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="60" style="margin-bottom: 8px"/> <br>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" width="60" style="margin-bottom: 8px"/> <br>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="60" style="margin-bottom: 8px"/> 
-
-</div>
+    <!-- Banco de Dados -->
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="60"/><br>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" width="60"/><br>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="60"/>
+    </td>
+  </tr>
+</table>
 
 ## 🎓 Formação
 
