@@ -7,15 +7,11 @@
 🌐 **Conecte-se comigo:**  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ericlys-luckas-4959b71ab)
 
----
-
 ## 🚀 Tecnologias
 
 | Back-end | Front-end | Banco de Dados |
 | :---: | :---: | :---: |
-| ![Node.js](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg) <br> ![Express](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg) <br> ![Prisma](https://raw.githubusercontent.com/prisma/prisma/main/icons/favicon-32x32.png) | ![React](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg) <br> ![Tailwind](https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-plain.svg) <br> ![CSS3](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg) | ![PostgreSQL](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg) <br> ![MySQL](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg) <br> ![MongoDB](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg) |
-
----
+| ![Node.js](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg) <br> ![Express](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg) <br> ![Prisma](https://raw.githubusercontent.com/prisma/prisma/main/icons/favicon-32x32.png) <br> ![Mongoose](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg) | ![JavaScript](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg) <br> ![React](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg) <br> ![Tailwind](https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-plain.svg) <br> ![CSS3](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg) | ![PostgreSQL](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg) <br> ![MySQL](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg) <br> ![MongoDB](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg) |
 
 ## 🎓 Formação
 
