@@ -20,73 +20,74 @@
   <tr>
     <td align="center">
       <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="50" height="50"/>
+        <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000000" alt="JavaScript"/>
       </a>
       <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="50" height="50"/>
+        <img src="https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=000000" alt="React"/>
       </a>
       <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="50" height="50"/>
+        <img src="https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=ffffff" alt="CSS3"/>
       </a>
       <a href="https://sass-lang.com" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="50" height="50"/>
+        <img src="https://img.shields.io/badge/-SASS-CC6699?style=for-the-badge&logo=sass&logoColor=ffffff" alt="SASS"/>
       </a>
       <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
-        <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="50" height="50"/>
+        <img src="https://img.shields.io/badge/-Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=ffffff" alt="Tailwind"/>
       </a>
       <a href="https://nextjs.org/" target="_blank" rel="noreferrer">
-        <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="50" height="50"/>
+        <img src="https://img.shields.io/badge/-Next.js-000000?style=for-the-badge&logo=next.js&logoColor=ffffff" alt="Next.js"/>
       </a>
     </td>
     <td align="center">
       <a href="https://nodejs.org" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="50" height="50"/>
+        <img src="https://img.shields.io/badge/-Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=ffffff" alt="Node.js"/>
       </a>
       <a href="https://expressjs.com" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="50" height="50"/>
+        <img src="https://img.shields.io/badge/-Express.js-000000?style=for-the-badge&logo=express&logoColor=ffffff" alt="Express"/>
       </a>
       <a href="https://www.prisma.io" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/prisma/prisma/main/icons/favicon-32x32.png" alt="prisma" width="50" height="50"/>
+        <img src="https://img.shields.io/badge/-Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=ffffff" alt="Prisma"/>
       </a>
       <a href="https://mongoosejs.com" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongoose" width="50" height="50"/>
+        <img src="https://img.shields.io/badge/-Mongoose-880000?style=for-the-badge&logo=mongodb&logoColor=ffffff" alt="Mongoose"/>
       </a>
     </td>
     <td align="center">
       <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="50" height="50"/>
+        <img src="https://img.shields.io/badge/-MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=ffffff" alt="MongoDB"/>
       </a>
       <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="50" height="50"/>
+        <img src="https://img.shields.io/badge/-MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=ffffff" alt="MySQL"/>
       </a>
       <a href="https://www.postgresql.org" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="50" height="50"/>
+        <img src="https://img.shields.io/badge/-PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=ffffff" alt="PostgreSQL"/>
       </a>
     </td>
     <td align="center">
       <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="50" height="50"/>
+        <img src="https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=ffffff" alt="Docker"/>
       </a>
       <a href="https://postman.com" target="_blank" rel="noreferrer">
-        <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="50" height="50"/>
+        <img src="https://img.shields.io/badge/-Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=ffffff" alt="Postman"/>
       </a>
       <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
-        <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="50" height="50"/>
+        <img src="https://img.shields.io/badge/-Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=ffffff" alt="Figma"/>
       </a>
       <a href="https://jestjs.io" target="_blank" rel="noreferrer">
-        <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="50" height="50"/>
+        <img src="https://img.shields.io/badge/-Jest-C21325?style=for-the-badge&logo=jest&logoColor=ffffff" alt="Jest"/>
       </a>
       <a href="https://firebase.google.com/" target="_blank" rel="noreferrer">
-        <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="50" height="50"/>
+        <img src="https://img.shields.io/badge/-Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=000000" alt="Firebase"/>
       </a>
       <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-        <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="50" height="50"/>
+        <img src="https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=ffffff" alt="Git"/>
       </a>
     </td>
   </tr>
 </table>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ericlysluckas&show_icons=true&locale=en&layout=compact" alt="ericlysluckas" /></p>
+
+<!-- <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ericlysluckas&show_icons=true&locale=en&layout=compact" alt="ericlysluckas" /></p> -->
 
 
 ## 🎓 Formação
