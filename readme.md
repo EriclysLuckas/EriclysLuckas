@@ -1,14 +1,14 @@
-<h1 align="center">Olá🤙, Eu sou Ericlys Luckas</h1>
-<h3 align="center">Full-Stack Developer</h3>
+<h1 align="center">Olá 🤙, Eu sou Ericlys Luckas</h1>
+<h3 align="center">Full-Stack Developer em evolução</h3>
 
 🌟 **Portfólio:** Em construção... **Em breve!**  
 
 🌐 **Conecte-se comigo:**  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ericlys-luckas-4959b71ab)
 
+---
 
-
-## 🔹 Minhas Tecnologias e Ferramentas
+## 🔹 Linguagens e Ferramentas
 
 <table align="center" width="100%">
   <tr>
@@ -67,7 +67,7 @@
       <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
         <img src="https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=ffffff" alt="Docker"/>
       </a>
-      <a href="https://postman.com" target="_blank" rel="noreferrer">
+      <a href="postman.com" target="_blank" rel="noreferrer">
         <img src="https://img.shields.io/badge/-Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=ffffff" alt="Postman"/>
       </a>
       <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
@@ -85,18 +85,17 @@
     </td>
   </tr>
 </table>
-<!-- <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ericlysluckas&show_icons=true&locale=en&layout=compact" alt="ericlysluckas" /></p> -->
 
+---
 
-## 🎓 Formação
+## 🎓 Formação Acadêmica
 
 [![Ciência da Computação](https://img.shields.io/badge/Ciência_da_Computação-2024-blue?style=for-the-badge&logo=university&logoColor=white)](#)
 
-**Certificações:**  
+**Áreas de especialização:**  
 - 🖥️ Usabilidade, desenvolvimento web e mobile  
 - 📊 Gestão e qualidade de software  
 
 ---
 
-
-⭐ Sempre buscando aprender e evoluir! -->
+⭐ Sempre aprendendo, evoluindo e buscando novos desafios!
