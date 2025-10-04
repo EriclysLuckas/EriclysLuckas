@@ -94,7 +94,7 @@
 
 [![Ciência da Computação](https://img.shields.io/badge/Ciência_da_Computação-2024-blue?style=for-the-badge&logo=university&logoColor=white)](#)
 
-**Áreas de foco:**  
+**Certificações:**  
 - 🖥️ Usabilidade, desenvolvimento web e mobile  
 - 📊 Gestão e qualidade de software  
 
