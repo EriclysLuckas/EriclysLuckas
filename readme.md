@@ -8,14 +8,14 @@
 
 
 
-## 🔹 Languages and Tools
+## 🔹 Minhas Tecnologias e Ferramentas
 
 <table align="center" width="100%">
   <tr>
-    <th align="center">Front-end</th>
-    <th align="center">Back-end</th>
-    <th align="center">Banco de Dados</th>
-    <th align="center">Outras Ferramentas</th>
+    <th align="center">💻 Front-end</th>
+    <th align="center">🛠️ Back-end</th>
+    <th align="center">🗄️ Banco de Dados</th>
+    <th align="center">⚡ Outras Ferramentas</th>
   </tr>
   <tr>
     <td align="center">
@@ -85,8 +85,6 @@
     </td>
   </tr>
 </table>
-
-
 <!-- <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ericlysluckas&show_icons=true&locale=en&layout=compact" alt="ericlysluckas" /></p> -->
 
 
