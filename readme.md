@@ -1,7 +1,7 @@
 <!-- Banner inicial -->
 <div align="center">
   <img src="https://media.licdn.com/dms/image/v2/D4D16AQEtfiT9JfYn3A/profile-displaybackgroundimage-shrink_350_1400/B4DZmXsw9WJUAY-/0/1759186719193?e=1762992000&v=beta&t=HJpMxPGKG4KieMxn1IX8ALHfBsnKkJ9XuUo_TmySmUc" 
-       alt="Banner" width="100%" style="border-radius:12px;"/>
+       alt="Banner" width="100%" style="border-radius:12px;margin:0;"/>
 </div>
 
 # 👋 Olá, eu sou Ericlys Luckas
