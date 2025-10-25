@@ -4,7 +4,7 @@
 </div>
 
 # 👋 Olá! Eu sou Ericlys Luckas
-<h3 align="center">Desenvolvedor Full-Stack | JavaScript/TypeScript Ecosystem</h3>
+<h3 align="center">Desenvolvedor Full-Stack | JavaScript Ecosystem</h3>
 
 ✨ **Foco:** Construção de soluções web escaláveis, modernas e de alto desempenho.
 
@@ -35,9 +35,9 @@
       <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
         <img src="https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=000000" alt="React" style="border-radius:8px; margin:4px;"/>
       </a>
-      <a href="https://nextjs.org/" target="_blank" rel="noreferrer">
+ <!-- // <a href="https://nextjs.org/" target="_blank" rel="noreferrer">
         <img src="https://img.shields.io/badge/-Next.js-000000?style=for-the-badge&logo=next.js&logoColor=ffffff" alt="Next.js" style="border-radius:8px; margin:4px;"/>
-      </a>
+      </a> -->
       <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
         <img src="https://img.shields.io/badge/-Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=ffffff" alt="Tailwind" style="border-radius:8px; margin:4px;"/>
       </a>
