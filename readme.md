@@ -52,9 +52,7 @@
       <a href="https://expressjs.com" target="_blank" rel="noreferrer">
         <img src="https://img.shields.io/badge/-Express.js-000000?style=for-the-badge&logo=express&logoColor=ffffff" alt="Express" style="border-radius:8px; margin:4px;"/>
       </a>
-            <a href="https://nestjs.com" target="_blank" rel="noreferrer">
-        <img src="https://img.shields.io/badge/-NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white" alt="Nest.js" style="border-radius:8px; margin:4px;"/>
-      </a>
+
       <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
         <img src="https://img.shields.io/badge/-HTML5&CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=ffffff" alt="CSS3" style="border-radius:8px; margin:4px;"/>
       </a>
