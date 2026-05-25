@@ -41,17 +41,17 @@
       <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
         <img src="https://img.shields.io/badge/-Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=ffffff" alt="Tailwind" style="border-radius:8px; margin:4px;"/>
       </a>
-      <a href="https://sass-lang.com" target="_blank" rel="noreferrer">
+   <!-- //   <a href="https://sass-lang.com" target="_blank" rel="noreferrer">
         <img src="https://img.shields.io/badge/-SASS-CC6699?style=for-the-badge&logo=sass&logoColor=ffffff" alt="SASS" style="border-radius:8px; margin:4px;"/>
-      </a>
+      </a> -->
     </td>
     <td align="center">
       <a href="https://nodejs.org" target="_blank" rel="noreferrer">
         <img src="https://img.shields.io/badge/-Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=ffffff" alt="Node.js" style="border-radius:8px; margin:4px;"/>
       </a>
-      <a href="https://expressjs.com" target="_blank" rel="noreferrer">
+      <!--  <a href="https://expressjs.com" target="_blank" rel="noreferrer">
         <img src="https://img.shields.io/badge/-Express.js-000000?style=for-the-badge&logo=express&logoColor=ffffff" alt="Express" style="border-radius:8px; margin:4px;"/>
-      </a>
+      </a>-->
 
       <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
         <img src="https://img.shields.io/badge/-HTML5&CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=ffffff" alt="CSS3" style="border-radius:8px; margin:4px;"/>
@@ -78,9 +78,9 @@
             <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
         <img src="https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=ffffff" alt="Docker" style="border-radius:8px; margin:4px;"/>
       </a>
-            <a href="https://aws.amazon.com/pt/" target="_blank" rel="noreferrer">
+         <!--     <a href="https://aws.amazon.com/pt/" target="_blank" rel="noreferrer">
         <img src="https://img.shields.io/badge/Cloud_Computing-AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="Cloud Computing" style="border-radius:8px; margin:4px;"/>
-      </a>
+      </a> -->
       <a href="https://firebase.google.com/" target="_blank" rel="noreferrer">
         <img src="https://img.shields.io/badge/-Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=000000" alt="Firebase" style="border-radius:8px; margin:4px;"/>
       </a>
