@@ -3,15 +3,53 @@
        alt="Banner" width="100%" style="border-radius:12px;"/>
 </div>
 
-# 👋 Olá! Eu sou Ericlys Luckas
-<h3 align="center">Desenvolvedor Full-Stack | JavaScript Ecosystem</h3>
+# 👤 Ericlys Luckas
 
-✨ **Foco:** Construção de soluções web escaláveis, modernas e de alto desempenho.
+**Backend Developer Júnior | JavaScript • TypeScript**  
+🎓 Recém-formado em Ciência da Computação  
+🚀 Buscando primeira oportunidade como desenvolvedor júnior  
 
-🌟 **Portfólio:** Em desenvolvimento. **Aguarde as novidades!** 🚧
+---
 
-🌐 **Conecte-se comigo:**
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ericlys-luckas-4959b71ab)
+## 💳 Projeto principal
+
+### 🧾 Fatura Easy
+
+Sistema backend para gerenciamento de faturas compartilhadas entre múltiplos usuários.
+
+💡 Resolve um problema real de controle financeiro familiar  
+🧠 Simula regras de negócio próximas a sistemas financeiros reais  
+
+---
+
+## ⚙️ Destaques técnicos
+
+- Engine de faturas por competência (mês/ano)
+- Sistema de parcelamento automático
+- Controle de limite individual e global
+- Lifecycle de faturas (OPEN → CLOSED → PAID)
+- Arquitetura orientada a domínio
+- Automação com cron jobs
+
+---
+
+## 🛠️ Stack
+
+Node.js • TypeScript • Fastify • Prisma • PostgreSQL • Docker • JWT
+
+---
+
+
+
+## 🎯 Objetivo
+
+Primeira oportunidade como **Backend Developer Júnior**
+
+---
+
+## 📫 Contato
+
+LinkedIn: [seu link]
 
 ---
 
