@@ -140,16 +140,3 @@ LinkedIn: [seu link]
 
 ---
 
-## 🎓 Educação e Habilidades
-
-**Formação Acadêmica:**
-[![Ciência da Computação](https://img.shields.io/badge/Ciência_da_Computação-Conclusão%202024-blue?style=for-the-badge&logo=university&logoColor=white)](#)
-
-**Certificações e Foco:**
-- 🌐 Desenvolvimento Web e Mobile
-- 🧪 Qualidade de Software e Testes
-- 📈 Usabilidade (UX/UI) e Gestão de Projetos
-
----
-
-⭐ **Pronto para o próximo desafio:** Sempre buscando aprender, colaborar e construir soluções de impacto.
